@@ -10,5 +10,5 @@
 # As I continue to develop and grow as a professional QA enginner, I will continuously improve and learn new ways to test and help with the quality of the software I work with.
 
 
-## My wife
-# My beloved wife, Susana Calderon, is the sole reason I'm putting so much effort into this.
+## languages
+# I speak both english and spanish fluently
