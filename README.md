@@ -10,6 +10,10 @@
 # As I continue to develop and grow as a professional QA enginner, I will continuously improve and learn new ways to test and help with the quality of the software I work with
 
 
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+=======
 ## Technologies
 
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
